@@ -14,9 +14,8 @@ Methoden automatisierte Prozesse zur Erkennung frauenfeindlicher Sprache zu verb
 ## Hinweis zur Nutzung
 
 Dieses Notebook enthält interaktive Widgets und kann nicht korrekt auf GitHub angezeigt werden.  
-Bitte öffne es in [Google Colab](https://colab.research.google.com/) über folgenden Link:
-
-[Notebook in Colab öffnen](https://colab.research.google.com/github/marijebe/Masterarbeit-Sexismus-Erkennung-mit-Large-Language-Models/blob/main/Masterarbeit_mariJebe.ipynb)
+Bitte lade die Datei "Masterarbeit_MariJebe.ipynb" runter und öffne sie in [Google Colab](https://colab.research.google.com/), damit der Code korrekt angezeigt wird und ausgeführt werden kann. 
+Die Dateien "requirements.txt", wordlist_chatgpt.txt", "wordlist_gemini.txt" und "wordlist_grok.txt" sollten für einen reibungslosen Durchlauf des Codes ebenfalls heruntergeladen und in das Colab Dokument eingefügt werden.
 
 ## Technologien
 ***
