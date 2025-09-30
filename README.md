@@ -5,10 +5,10 @@ Masterarbeit im Fach Linguistik zu dem Thema Sexismus-Erkennung mit Large Langua
 Diese Arbeit befasst sich mit der automatisierten Klassiﬁzierung sexistischer
 und misogyner Sprache anhand von Kommentaren eines Online Forums.
 Hierfür werden die Leistungen von logistischen Regressions-Modellen
-mit denen des Transformer-Modells DistilBERT Base German Cased unter Einﬂuss verschiedener Fine-Tuning Strategien verglichen. 
+mit denen des Transformer-Modells _DistilBERT Base German Cased_ unter Einﬂuss verschiedener _Fine-Tuning_ Strategien verglichen. 
 Der Fokus liegt auf dem Ansatz, eine von verschiedenen KI Modellen generierte Liste an Worten und Phrasen, die häuﬁg im Kontext sexistischer und misogyner Aussagen
 vorkommen, als zusätzliche Information zur Klassiﬁzierung hinzuzuziehen.
-Das Ziel ist es, durch die Kombination aus Transformer-Modellen und symbolischen Methoden automatisierte Prozesse zur Erkennung frauenfeindlicher Sprache zu verbessern.
+Das Ziel ist es, durch die Kombination aus Transformer-Modellen und symbolischen Methoden automatisierte Prozesse zur Erkennung sexistischer und misogyner Sprache zu verbessern.
 
 ## Hinweis zur Nutzung
 
