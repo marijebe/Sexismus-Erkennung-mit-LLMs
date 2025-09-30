@@ -12,8 +12,8 @@ Das Ziel ist es, durch die Kombination aus Transformer-Modellen und symbolischen
 
 ## Hinweis zur Nutzung
 
-Dieses Notebook enthält interaktive Widgets und kann nicht korrekt auf GitHub angezeigt werden.  
-Bitte lade die Datei "Masterarbeit_MariJebe.ipynb" runter und öffne sie in [Google Colab](https://colab.research.google.com/), damit der Code korrekt angezeigt wird und ausgeführt werden kann. 
+Das Notebook "Masterarbeit_MariJebe.ipynb" enthält interaktive Widgets und kann nicht korrekt auf GitHub angezeigt werden.  
+Bitte lade die Datei herunter und öffne sie in [Google Colab](https://colab.research.google.com/), damit der Code korrekt angezeigt wird und ausgeführt werden kann. 
 Die Dateien _"requirements.txt", wordlist_chatgpt.txt", "wordlist_gemini.txt"_ und _"wordlist_grok.txt"_ sollten für einen reibungslosen Durchlauf des Codes ebenfalls heruntergeladen und in das Colab Dokument eingefügt werden.
 
 ## Technologien
