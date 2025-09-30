@@ -15,14 +15,20 @@ Methoden automatisierte Prozesse zur Erkennung frauenfeindlicher Sprache zu verb
 ## Technologien
 ***
 Eine Liste der im Rahmen des Projekts verwendeten Technologien:
-* [tweepy](https://www.tweepy.org/): Version 3.2.4 
-* [spacy](https://spacy.io/): Version 3.2.4
-* [nltk](https://www.nltk.org/): Version 3.4.5
-* [scikit_learn](https://scikit-learn.org/): Version 1.1.2
-* [numpy](https://numpy.org/): Version 1.18.2
-* [pandas](https://pandas.pydata.org/): Version 1.5.0
-* [matplotlib](https://matplotlib.org/): Version 3.6.1
-* [seaborn](https://seaborn.pydata.org/): Version 0.12.0
+
+* [spacy](https://spacy.io/)
+* [nltk](https://www.nltk.org/)
+* [scikit_learn](https://scikit-learn.org/)
+* [numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [seaborn](https://seaborn.pydata.org/)
+* [torch](https://pytorch.org/)
+* [tensorflow](https://www.tensorflow.org/)
+* [datasets](https://huggingface.co/docs/datasets/index)
+* [transformers](https://huggingface.co/docs/transformers/de/index)
+* [tqdm](https://tqdm.github.io/)
+* [optuna](https://optuna.org/)
 
 
 ## hohe Rechenleistung erforderlich
