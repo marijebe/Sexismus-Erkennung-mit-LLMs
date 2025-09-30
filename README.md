@@ -25,8 +25,12 @@ Eine Liste der im Rahmen des Projekts verwendeten Technologien:
 * [seaborn](https://seaborn.pydata.org/): Version 0.12.0
 
 
-## Installation
-***
-Um die angegebenen Dateien auszuführen, müssen alle in „requirements.txt“ aufgeführten Module installiert werden. Dies erfolgt durch das Ausführen folgende Zeile im Terminal:
+## hohe Rechenleistung erforderlich
 
-        pip install -r requirements.txt 
+Einige Aspekte dieses Notebooks benötigen eine hohe Rechenleistung, beispielsweise das Training der Transformer-Modelle. Für eine reibungslose Ausführung empfiehlt es sich daher, eine GPU zu nutzen, da sie die Ausführung des Codes erheblich beschleunigt, sowie den Arbeitsspeicher (RAM) zu erhöhen, um Speicherengpässe bei großen Datensätzen zu vermeiden.
+
+In Google Colab lässt sich unter 
+
+        Bearbeiten → Notebook-Einstellungen → Hardwarebeschleuniger
+
+eine GPU aktivieren und bei Bedarf der RAM erweitern.
