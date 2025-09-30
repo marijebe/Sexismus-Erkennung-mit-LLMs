@@ -11,6 +11,12 @@ vorkommen, als zusätzliche Information zur Klassiﬁzierung hinzuzuziehen.
 Das Ziel ist es, durch die Kombination aus Transformer-Modellen und symbolischen
 Methoden automatisierte Prozesse zur Erkennung frauenfeindlicher Sprache zu verbessern.
 
+## Hinweis zur Nutzung
+
+Dieses Notebook enthält interaktive Widgets und kann nicht korrekt auf GitHub angezeigt werden.  
+Bitte öffne es in [Google Colab](https://colab.research.google.com/) über folgenden Link:
+
+[Notebook in Colab öffnen](https://colab.research.google.com/github/marijebe/Masterarbeit-Sexismus-Erkennung-mit-Large-Language-Models/blob/main/Masterarbeit_mariJebe.ipynb)
 
 ## Technologien
 ***
